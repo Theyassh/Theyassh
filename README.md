@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Theyassh
-- 👀 I’m interested in designing 
-- 🌱 I’m currently learning some cousres related to designing 
-- 📫 How to reach me ... yashy94888@gmail.com
+ 
+* Basic Python Number Guessing Game
 
-<!---
-Theyassh/Theyassh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Created a simple console-based guessing game using Python.
+
+* Applied core programming concepts such as loops, conditional statements, and user input handling.
+
+* Demonstrated ability to write clean, functional code and debug logic errors.
+
+
+
