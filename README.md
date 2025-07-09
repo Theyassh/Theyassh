@@ -1,26 +1,19 @@
-- 👋 Hi, I’m @Theyassh
- 
-# Python Number Guessing Game
+# 👋 Hi there! I’m YASHWANTH
 
-This is a simple Python console game I built to practice basic programming concepts.
+I’m a beginner Python developer, exploring how to build small projects to learn real-world coding.
 
-## 📌 What it does
-The program generates a random number within a given range. The user has to guess the number, and the program provides hints until the user guesses correctly.
+🌱 I’m currently learning:
+- Python basics, data structures, and automation
+- How to build simple CLI tools and calculators
+- How to use Git and GitHub to share my work
 
-## ✅ Concepts Used
-- Variables and data types
-- Random number generation
-- Loops (while loop)
-- Conditional statements (if/else)
-- User input handling
-- Basic debugging and error handling
+🔭 My goals:
+- Become confident in writing clean, working code
+- Start building bigger projects, like web apps or APIs
+- Contribute to open source in the future
 
-## ▶️ How to run it
-1. Clone this repository or download the `.py` file.
-2. Open the file in any Python IDE or run it from the terminal.
-  
+✨ Fun fact:
+When I get stuck, I use ChatGPT to explain concepts and debug problems — but I want to understand enough to solve them myself!
 
-3. Follow the instructions in the console to guess the number!
-
-## 💡 What I learned
-This project helped me understand how to write and structure basic Python programs, use loops and conditions, and handle user input.
+📫 How to reach me:
+Feel free to connect with me here on GitHub!
